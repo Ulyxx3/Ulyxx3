@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hello, I'm Ulyxx3!
 
-<!--
-**Ulyxx3/Ulyxx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readline.gradient.rocks/badge?text=Creative%20Developer%20%7C%20Lead%20%40%20OSMV&font=Outfit&background=linear-gradient(45deg%2C%20%2300c6ff%2C%20%230072ff)" alt="Ulyxx3 Banner">
+</div>
 
-Here are some ideas to get you started:
+### "L'incarnation de Rimuru Tempest en ce monde"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **Creative Developer** and **Lead Developer** currently studying **BUT-MMI** (Multimedia and Internet) at **IUT d'Arles**, France. I specialize in building technical utilities for the streaming world and crafting immersive digital experiences.
+
+---
+
+### My Toolbox
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL">
+</div>
+
+- **Systems & Plugins:** OBS Plugin Development, Desktop Utilities.
+- **Web & Creative:** Frontend Development, Graphics Programming (Shaders).
+- **Game Dev:** Godot Engine & GDScript.
+
+---
+
+### Lead @ [StreamMusicViewer (OSMV)](https://github.com/StreamMusicViewer)
+
+I lead the development of the **OSMV** ecosystem, a suite of tools designed for streamers to showcase their music in style.
+
+- **[OSMV (C++)](https://github.com/StreamMusicViewer/OSMV):** Our flagship OBS extension for real-time music metadata and album art.
+- **[OSMV-lite (C#)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version using Windows Media Control for universal compatibility.
+- **[OSMV Website](https://github.com/StreamMusicViewer/OSMV-website):** The digital home for our streaming tools.
+
+---
+
+### Key Projects
+
+- **[OffShades](https://github.com/Ulyxx3/OffShades):** A unique Minecraft shader pack blending the best of Photon, Complementary, and Iteration.
+- **[VersuSite](https://github.com/Ulyxx3/VersuSite):** A dynamic web tool to settle debates with "versus" matchups.
+
+---
+
+### Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ulyxx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ulyxx3 Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulyxx3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</div>
+
+---
+
+### Connect with me
+
+- 💬 Ask me about **C++ development**, **OBS integration**, or **Minecraft shaders**.
+- 🏢 Explore my organization: [OSMV](https://github.com/StreamMusicViewer)
