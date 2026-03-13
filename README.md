@@ -37,7 +37,7 @@ I lead the development of the **OSMV** ecosystem, a suite of tools designed for 
 
 - **[OSMV (C++)](https://github.com/StreamMusicViewer/OSMV):** Our flagship OBS extension for real-time music metadata and album art.
 - **[OSMV-lite (C#)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version using Windows Media Control for universal compatibility.
-- **[OSMV Website](https://github.com/StreamMusicViewer/OSMV-website):** The digital home for our streaming tools.
+- **[OSMV Website](https://github.com/StreamMusicViewer/site):** The digital home for our streaming tools.
 
 ---
 
