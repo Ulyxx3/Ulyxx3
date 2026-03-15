@@ -1,8 +1,9 @@
 # Hello, I'm Ulyxx3!
 
 <div align="center">
-### "Rimuru Tempest reincarnation in this world"
+"Rimuru Tempest reincarnation in this world"
 </div>
+
 I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and Internet) at **IUT d'Arles**, France.
 
 ---
