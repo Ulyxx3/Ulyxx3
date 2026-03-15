@@ -1,11 +1,8 @@
 # Hello, I'm Ulyxx3!
 
 <div align="center">
-  <img src="https://readline.gradient.rocks/badge?text=Developer%20%2F%202D%20Animator%20%7C%20Lead%20%40%20OSMV&font=Outfit&background=linear-gradient(45deg%2C%20%2300c6ff%2C%20%230072ff)" alt="Ulyxx3 Banner">
-</div>
-
 ### "Rimuru Tempest reincarnation in this world"
-
+</div>
 I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and Internet) at **IUT d'Arles**, France.
 
 ---
@@ -20,13 +17,16 @@ I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL">
 </div>
 
-- **Systems & Plugins:** OBS Plugin Development, Desktop Utilities.
+- **Systems & Plugins:** OBS Plugin Development, Desktop Utilities, Command-line Tools.
 - **Web & Database:** Fullstack development (PHP, MySQL, HTML/CSS).
 - **Creative:** 2D Animation, Frontend, Graphics Programming (Shaders).
+- **Automation & Scripting:** Python, Shell scripting.
 - **Game Dev:** Godot Engine & GDScript.
 
 ---
@@ -43,6 +43,7 @@ I lead the development of the **OSMV** ecosystem, a suite of tools designed for 
 
 ### Key Projects
 
+- **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr):** A specialized fork of ani-cli, tailored for the French-speaking community.
 - **[OffShades](https://github.com/Ulyxx3/OffShades):** A unique Minecraft shader pack blending the best of Photon, Complementary, and Iteration.
 - **[VersuSite](https://github.com/Ulyxx3/VersuSite):** A dynamic web tool to settle debates with "versus" matchups.
 
