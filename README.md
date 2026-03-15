@@ -54,7 +54,7 @@ I lead the development of the **OSMV** ecosystem, a suite of tools designed for 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ulyxx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_orgs=true&include_all_commits=true" alt="Ulyxx3 Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulyxx3&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulyxx3&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&include_orgs=true" alt="Top Languages">
 </div>
 
 ---
