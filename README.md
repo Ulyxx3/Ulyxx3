@@ -11,6 +11,7 @@ I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and 
 ### My Toolbox
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript">
@@ -24,7 +25,7 @@ I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and 
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL">
 </div>
 
-- **Systems & Plugins:** OBS Plugin Development, Desktop Utilities, Command-line Tools.
+- **Systems & Plugins:** Rust, OBS Plugin Development, Desktop Utilities, Command-line Tools.
 - **Web & Database:** Fullstack development (PHP, MySQL, HTML/CSS).
 - **Creative:** 2D Animation, Frontend, Graphics Programming (Shaders).
 - **Automation & Scripting:** Python, Shell scripting.
@@ -36,7 +37,7 @@ I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and 
 
 I lead the development of the **OSMV** ecosystem, a suite of tools designed for streamers to showcase their music in style.
 
-- **[OSMV (C++)](https://github.com/StreamMusicViewer/OSMV):** Our flagship OBS extension for real-time music metadata and album art.
+- **[OSMV (Rust)](https://github.com/StreamMusicViewer/OSMV):** Our flagship OBS extension for real-time music metadata and album art including Discord Rich Presence.
 - **[OSMV-lite (C#)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version using Windows Media Control for universal compatibility.
 - **[OSMV Website](https://github.com/StreamMusicViewer/site):** The digital home for our streaming tools.
 
@@ -61,5 +62,5 @@ I lead the development of the **OSMV** ecosystem, a suite of tools designed for 
 
 ### Connect with me
 
-- 💬 Ask me about **C++ development**, **OBS integration**, or **Minecraft shaders**.
+- 💬 Ask me about **Rust**, **C++ development**, **OBS integration**, or **Minecraft shaders**.
 - 🏢 Explore my organization: [OSMV](https://github.com/StreamMusicViewer)
