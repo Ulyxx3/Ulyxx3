@@ -81,7 +81,7 @@ I lead the development of **OSMV**, a tool for streamers to showcase their music
 <td width="50%" align="center">
       <a href="https://github.com/Ulyxx3/ani-cli-fr"><b>ani-cli-fr</b></a><br>
       A specialized fork of `ani-cli` for the French-speaking community.<br>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+      <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
 </td>
 <td width="50%" align="center">
       <a href="https://github.com/Ulyxx3/Client"><b>Client</b></a><br>
