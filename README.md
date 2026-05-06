@@ -4,7 +4,7 @@
 "Rimuru Tempest reincarnation in this world"
 </div>
 
-I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and Internet) at **IUT d'Arles**, France.
+I am a **Developer / 2D Animator** currently studying **BUT-MMI** (Multimedia and Internet) at **IUT d'Arles**, France. I'm passionate about system programming, game development, and creating tools that make life (and streaming) easier.
 
 ---
 
@@ -25,33 +25,36 @@ I am a **Developer/2D Animator** currently studying **BUT-MMI** (Multimedia and 
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL">
 </div>
 
-- **Systems & Plugins:** Rust, OBS Plugin Development, Desktop Utilities, Command-line Tools.
-- **Web & Database:** Fullstack development (PHP, MySQL, HTML/CSS).
-- **Creative:** 2D Animation, Frontend, Graphics Programming (Shaders).
-- **Automation & Scripting:** Python, Shell scripting.
-- **Game Dev:** Godot Engine & GDScript.
+---
+
+### 🌐 [StreamMusicViewer (OSMV)](https://github.com/StreamMusicViewer)
+
+I lead the development of **OSMV**, a tool for streamers to showcase their music in style.
+
+- 🦀 **[OSMV (Rust)](https://github.com/StreamMusicViewer/OSMV):** An OBS extension for real-time music metadata and album art.
+- ⚡ **[OSMV-lite (C#)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version using Windows Media Control for better compatibility.
+- 🌍 **[OSMV Website](https://github.com/StreamMusicViewer/site):** The official website.
 
 ---
 
-### [StreamMusicViewer (OSMV)](https://github.com/StreamMusicViewer)
+### 🛠️ Key Projects
 
-I lead the development of the **OSMV** ecosystem, a suite of tools designed for streamers to showcase their music in style.
-
-- **[OSMV (Rust)](https://github.com/StreamMusicViewer/OSMV):** Our flagship OBS extension for real-time music metadata and album art including Discord Rich Presence.
-- **[OSMV-lite (C#)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version using Windows Media Control for universal compatibility.
-- **[OSMV Website](https://github.com/StreamMusicViewer/site):** The digital home for our streaming tools.
-
----
-
-### Key Projects
-
-- **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr):** A specialized fork of ani-cli, tailored for the French-speaking community.
-- **[OffShades](https://github.com/Ulyxx3/OffShades):** A unique Minecraft shader pack blending the best of Photon, Complementary, and Iteration.
-- **[VersuSite](https://github.com/Ulyxx3/VersuSite):** A dynamic web tool to settle debates with "versus" matchups.
+- 🎮 **[Rusthia](https://github.com/Ulyxx3/Rusthia):** A recreation of Rhythia, an indie rhythm game, using Rust and Bevy Engine.
+- 🐺 **[lg-discord](https://github.com/Ulyxx3/lg-discord):** A Discord bot that automates "Loups-Garous de Thiercelieux" games.
+- 🗺️ **[antmap](https://github.com/Ulyxx3/antmap):** A pathfinding visualization project using Ant Colony Optimization (ACO).
+- ⚔️ **[VersuSite](https://github.com/Ulyxx3/VersuSite):** A dynamic web tool to settle debates with "versus" matchups.
+- 🎨 **[OffShades](https://github.com/Ulyxx3/OffShades):** A unique Minecraft shader pack blending photon, complementary, and iteration.
 
 ---
 
-### Stats
+### 🍴 Forks
+
+- 📺 **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr):** A specialized fork of `ani-cli`, tailored for the French-speaking community (works with [Anime-sama](https://anime-sama.tv)).
+- 🎶 **[Client](https://github.com/Ulyxx3/Client):** A fork of the `Rhythia/Client`, working on improvements for the Godot 4 rhythm game.
+
+---
+
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ulyxx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_orgs=true&include_all_commits=true" alt="Ulyxx3 Stats">
@@ -60,7 +63,8 @@ I lead the development of the **OSMV** ecosystem, a suite of tools designed for 
 
 ---
 
-### Connect with me
+### 📫 Connect with me
 
 - 💬 Ask me about **Rust**, **C++ development**, **OBS integration**, or **Minecraft shaders**.
+- 🌐 Visit my portfolio: [ulyxx3.github.io](https://ulyxx3.github.io)
 - 🏢 Explore my organization: [OSMV](https://github.com/StreamMusicViewer)
