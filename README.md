@@ -31,8 +31,8 @@ I am a **Developer / 2D Animator** currently studying **BUT-MMI** (Multimedia an
 
 I lead the development of **OSMV**, a tool for streamers to showcase their music in style.
 
-- 🦀 **[OSMV (Rust)](https://github.com/StreamMusicViewer/OSMV):** An OBS extension for real-time music metadata and album art.
-- ⚡ **[OSMV-lite (C#)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version using Windows Media Control for better compatibility.
+- 🦀 **[OSMV (Rust)](https://github.com/StreamMusicViewer/OSMV):** An OBS extension for real-time music metadata and album art (Windows/Linux).
+- ⚡ **[OSMV-lite (C++)](https://github.com/StreamMusicViewer/OSMV-lite):** A lightweight version without some functionalities but close to 0% cpu and less than 5MB RAM usage (Windows Only).
 - 🌍 **[OSMV Website](https://github.com/StreamMusicViewer/site):** The official website.
 
 ---
