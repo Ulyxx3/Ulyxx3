@@ -8,7 +8,7 @@ I am a **Developer / 2D Animator** currently studying **BUT-MMI** (Multimedia an
 
 ---
 
-### My Toolbox
+### 🛠️ My Toolbox
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -37,11 +37,59 @@ I lead the development of **OSMV**, a tool for streamers to showcase their music
 
 ---
 
-### 🛠️ Key Projects
+### 🚀 Key Projects
 
-- **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr):** A specialized fork of ani-cli, tailored for the French-speaking community.
-- **[OffShades](https://github.com/Ulyxx3/OffShades):** A unique Minecraft shader pack blending the best of Photon, Complementary, and Iteration.
-- **[VersuSite](https://github.com/Ulyxx3/VersuSite):** A dynamic web tool to settle debates with "versus" matchups.
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/Rusthia"><b>Rusthia</b></a><br>
+      Rhythia rhythm game clone in Rust<br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/lg-discord"><b>lg-discord</b></a><br>
+      Werewolf game master bot for Discord (in french)<br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/VersuSite"><b>VersuSite</b></a><br>
+      Dynamic matchups to decide your favorites things (images, videos, text, anime...)<br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/OffShades"><b>OffShades</b></a><br>
+      Minecraft shader pack mixing Photon & Comp<br>
+      <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/antmap"><b>antmap</b></a><br>
+      ACO-based pathfinding on maps<br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🍴 Forks & Contributions
+<table>
+<tr>
+<td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/ani-cli-fr"><b>ani-cli-fr</b></a><br>
+      A specialized fork of `ani-cli` for the French-speaking community.<br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+</td>
+<td width="50%" align="center">
+      <a href="https://github.com/Ulyxx3/Client"><b>Client</b></a><br>
+      A fork of `Rhythia/Client` for adding things that I want (and maybe some improvements).<br>
+      <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="GDScript">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,6 +104,5 @@ I lead the development of **OSMV**, a tool for streamers to showcase their music
 
 ### 📫 Connect with me
 
-- 💬 Ask me about **Rust**, **C++ development**, **OBS integration**, or **Minecraft shaders**.
-- 🌐 Visit my portfolio: [ulyxx3.github.io](https://ulyxx3.github.io)
-- 🏢 Explore my organization: [OSMV](https://github.com/StreamMusicViewer)
+- 💬 Ask me about **Rust**, **C++**, **OBS integration**, or **Minecraft shaders**.
+- 🌐 Portfolio: [ulyxx3.github.io](https://ulyxx3.github.io)
