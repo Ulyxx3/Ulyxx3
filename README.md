@@ -93,15 +93,6 @@ I lead the development of **OSMV**, a tool for streamers to showcase their music
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ulyxx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_orgs=true&include_all_commits=true" alt="Ulyxx3 Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulyxx3&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&include_orgs=true" alt="Top Languages">
-</div>
-
----
-
 ### 📫 Connect with me
 
 - 💬 Ask me about **Rust**, **C++**, **OBS integration**, or **Minecraft shaders**.
