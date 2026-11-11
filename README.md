@@ -72,6 +72,7 @@ A tool suite for streamers to showcase their music in style.
 - **[aredl-extension](https://github.com/Ulyxx3/aredl-extension)**: Browser extension to track my beaten Extreme Demons on AREDL and Pointercrate (JavaScript).
 - **[DLFR](https://github.com/Ulyxx3/DLFR)**: Google Sheets automation for the French Demonlist (JavaScript).
 - **[Boussoled](https://github.com/Ulyxx3/Boussoled)**: Interactive compass ([Ether](https://github.com/lilouhldmnn) project for Esadhar) (JavaScript).
+- **[yt-donation-converter](https://github.com/Ulyxx3/yt-donation-converter)**: YouTube Donation converter, converts donations in chat in whatever currency you choose
 
 #### Web & Community
 - **[VersuSite](https://github.com/Ulyxx3/VersuSite)**: Matchup tournament platform to decide your favorite things (JavaScript).
@@ -86,6 +87,7 @@ A tool suite for streamers to showcase their music in style.
 - **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr)**: Fork of [ani-cli](https://github.com/pystardust/ani-cli) for the French-speaking community (Shell/Python).
 - **[Client](https://github.com/Ulyxx3/Client)**: Fork of [Rhythia/Client](https://github.com/Rhythia/Client) in Godot 4 / C# with personal additions.
 - **[minehop-fabric-public](https://github.com/Ulyxx3/minehop-fabric-public)**: Fabric mod fork of [Minehop](https://github.com/Plaaasma/minehop-fabric-public) experimenting with bunnyhopping in Minecraft.
+- **[Eclipse_Ulyx](https://github.com/Ulyxx3/Eclipse_Ulyx)**: Fork of [EclipseMenu](https://git.eclipse.menu/EclipseMenu/EclipseMenu) for my personal use and because they are to slow to update it for 2.209
 
 ---
 
