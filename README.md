@@ -69,10 +69,11 @@ A tool suite for streamers to showcase their music in style.
 - **[antmap](https://github.com/Ulyxx3/antmap)**: Pathfinding optimization using Ant Colony Optimization (Rust).
 - **[novel-traductor](https://github.com/Ulyxx3/novel-traductor)**: Context-aware AI web novel translator with gender consistency (JavaScript).
 - **[backscraper](https://github.com/Ulyxx3/backscraper)**: Backmarket price and deal scraper (Python).
-- **[aredl-extension](https://github.com/Ulyxx3/aredl-extension)**: Browser extension to track my beaten Extreme Demons on AREDL and Pointercrate (JavaScript).
+- **[aredl-extension](https://github.com/Ulyxx3/aredl-extension)**: Browser extension to track my beaten Extreme Demons on [AREDL](https://aredl.net/) and [Pointercrate](https://pointercrate.com/demonlist/) (JavaScript).
 - **[DLFR](https://github.com/Ulyxx3/DLFR)**: Google Sheets automation for the French Demonlist (JavaScript).
 - **[Boussoled](https://github.com/Ulyxx3/Boussoled)**: Interactive compass ([Ether](https://github.com/lilouhldmnn) project for Esadhar) (JavaScript).
 - **[yt-donation-converter](https://github.com/Ulyxx3/yt-donation-converter)**: YouTube Donation converter, converts donations in chat in whatever currency you choose
+- **[WikiMasters-proba](https://github.com/Ulyxx3/WikiMasters-proba)**: [WikiMasters](https://www.wiki-masters.com) Extension that tells you the probability in the site
 
 #### Web & Community
 - **[VersuSite](https://github.com/Ulyxx3/VersuSite)**: Matchup tournament platform to decide your favorite things (JavaScript).
