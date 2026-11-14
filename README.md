@@ -33,7 +33,7 @@ I am a **Developer / 2D Animator** studying **BUT-MMI** at **IUT d'Arles**, Fran
 
 ---
 
-### My Minecraft Shader: [OffShades](https://github.com/Ulyxx3/OffShades)
+### My Minecraft Shader: [OffShades](https://github.com/Ulyxx3/OffShades) [GLSL]
 
 <div align="center">
   <a href="https://github.com/Ulyxx3/OffShades">
@@ -50,45 +50,46 @@ Minecraft shaderpack inspired by **Complementary**, **Photon**, **Iteration**, a
 
 A tool suite for streamers to showcase their music in style.
 
-- **[OSMV](https://github.com/StreamMusicViewer/OSMV)**: Feature-packed OBS extension with real-time metadata and album art (Rust & QML, Windows/Linux).
-- **[OSMV-lite](https://github.com/StreamMusicViewer/OSMV-lite)**: Lightweight OBS widget using Windows Media Control (<5MB RAM, ~0% CPU, C++).
-- **[OSMV Website](https://github.com/StreamMusicViewer/site)**: Official website and documentation.
+- **[OSMV](https://github.com/StreamMusicViewer/OSMV)**: Feature-packed OBS extension with real-time metadata and album art (Rust & QML, Windows/Linux). [C++]
+- **[OBSMV](https://github.com/StreamMusicViewer/OBSMV)**: Native OSB extension with true audio visualizer (less customizability on other options but you can put only the visualizer) [C++]
+- **[OSMV-lite](https://github.com/StreamMusicViewer/OSMV-lite)**: Lightweight OBS widget using Windows Media Control (<5MB RAM, ~0% CPU,). [C++]
+- **[OSMV Website](https://github.com/StreamMusicViewer/site)**: Official website and documentation. [HTML,CSS,JS]
 
 ---
 
 ### Projects
 
 #### Games, Mods & Shaders
-- **[Rusthia](https://github.com/Ulyxx3/Rusthia)**: Rhythia rhythm game engine clone rewritten in Rust.
-- **[Rathia](https://github.com/Ulyxx3/Rathia)**: Terminal-based (TUI) port of Rhythia for the ratty terminal. (based on the [Rusthia](https://github.com/Ulyxx3/Rusthia) code)
-- **[silksong-archipelago](https://github.com/Ulyxx3/silksong-archipelago)**: Hollow Knight: Silksong multiworld Archipelago integration (C#).
-- **[scope-craft](https://github.com/Ulyxx3/scope-craft)**: Minecraft 1.8.9 mod adding dynamic sniper scope zoom when aiming (Java).
-- **[as2p-debug-mode](https://github.com/Ulyxx3/as2p-debug-mode)**: Debug mode and cheats for *Antivirus Survivors 2003 Professional* (GDScript).
+- **[Rusthia](https://github.com/Ulyxx3/Rusthia)**: Rhythia rhythm game engine clone. [Rust]
+- **[Rathia](https://github.com/Ulyxx3/Rathia)**: Terminal-based (TUI) port of Rhythia for the ratty terminal. (based on the [Rusthia](https://github.com/Ulyxx3/Rusthia) code) [Rust]
+- **[silksong-archipelago](https://github.com/Ulyxx3/silksong-archipelago)**: Hollow Knight: Silksong multiworld Archipelago integration. [C#]
+- **[scope-craft](https://github.com/Ulyxx3/scope-craft)**: Minecraft 1.8.9 mod adding dynamic sniper scope zoom when aiming. [Java]
+- **[as2p-debug-mode](https://github.com/Ulyxx3/as2p-debug-mode)**: Debug mode and cheats for *Antivirus Survivors 2003 Professional*. [GDScript]
 
 #### Tools & Algorithms
-- **[antmap](https://github.com/Ulyxx3/antmap)**: Pathfinding optimization using Ant Colony Optimization (Rust).
-- **[novel-traductor](https://github.com/Ulyxx3/novel-traductor)**: Context-aware AI web novel translator with gender consistency (JavaScript).
-- **[backscraper](https://github.com/Ulyxx3/backscraper)**: Backmarket price and deal scraper (Python).
-- **[aredl-extension](https://github.com/Ulyxx3/aredl-extension)**: Browser extension to track my beaten Extreme Demons on [AREDL](https://aredl.net/) and [Pointercrate](https://pointercrate.com/demonlist/) (JavaScript).
-- **[DLFR](https://github.com/Ulyxx3/DLFR)**: Google Sheets automation for the French Demonlist (JavaScript).
-- **[Boussoled](https://github.com/Ulyxx3/Boussoled)**: Interactive compass ([Ether](https://github.com/lilouhldmnn) project for Esadhar) (JavaScript).
-- **[yt-donation-converter](https://github.com/Ulyxx3/yt-donation-converter)**: YouTube Donation converter, converts donations in chat in whatever currency you choose
-- **[WikiMasters-proba](https://github.com/Ulyxx3/WikiMasters-proba)**: [WikiMasters](https://www.wiki-masters.com) Extension that tells you the probability in the site
+- **[antmap](https://github.com/Ulyxx3/antmap)**: Pathfinding optimization using Ant Colony Optimization. [Rust]
+- **[novel-traductor](https://github.com/Ulyxx3/novel-traductor)**: Context-aware AI web novel translator with gender consistency. [JavaScript]
+- **[backscraper](https://github.com/Ulyxx3/backscraper)**: Backmarket price and deal scraper. [Python]
+- **[aredl-extension](https://github.com/Ulyxx3/aredl-extension)**: Browser extension to track my beaten Extreme Demons on [AREDL](https://aredl.net/) and [Pointercrate](https://pointercrate.com/demonlist/). [JavaScript]
+- **[DLFR](https://github.com/Ulyxx3/DLFR)**: Google Sheets automation for the French Demonlist. [JavaScript]
+- **[Boussoled](https://github.com/Ulyxx3/Boussoled)**: Interactive compass ([Ether](https://github.com/lilouhldmnn) project for Esadhar) [JavaScript].
+- **[yt-donation-converter](https://github.com/Ulyxx3/yt-donation-converter)**: YouTube Donation converter, converts donations in chat in whatever currency you choose. [Javascript]
+- **[WikiMasters-proba](https://github.com/Ulyxx3/WikiMasters-proba)**: [WikiMasters](https://www.wiki-masters.com) Extension that tells you the probability in the site. [Javascript]
 
 #### Web & Community
-- **[VersuSite](https://github.com/Ulyxx3/VersuSite)**: Matchup tournament platform to decide your favorite things (JavaScript).
-- **[lg-discord](https://github.com/Ulyxx3/lg-discord)**: Werewolf game master bot for Discord in French (Python).
-- **[ulyxx3.github.io](https://github.com/Ulyxx3/ulyxx3.github.io)**: Personal portfolio site (TypeScript).
+- **[VersuSite](https://github.com/Ulyxx3/VersuSite)**: Matchup tournament platform to decide your favorite things. [Javascript]
+- **[lg-discord](https://github.com/Ulyxx3/lg-discord)**: Werewolf game master bot for Discord in French. [Pyhton]
+- **[ulyxx3.github.io](https://github.com/Ulyxx3/ulyxx3.github.io)**: Personal portfolio site. [Typescript]
 - **[Wallpapers](https://github.com/Ulyxx3/Wallpapers)**: My personal wallpaper collection.
 
 ---
 
 ### Forks
 
-- **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr)**: Fork of [ani-cli](https://github.com/pystardust/ani-cli) for the French-speaking community (Shell/Python).
-- **[Client](https://github.com/Ulyxx3/Client)**: Fork of [Rhythia/Client](https://github.com/Rhythia/Client) in Godot 4 / C# with personal additions.
-- **[minehop-fabric-public](https://github.com/Ulyxx3/minehop-fabric-public)**: Fabric mod fork of [Minehop](https://github.com/Plaaasma/minehop-fabric-public) experimenting with bunnyhopping in Minecraft.
-- **[Eclipse_Ulyx](https://github.com/Ulyxx3/Eclipse_Ulyx)**: Fork of [EclipseMenu](https://git.eclipse.menu/EclipseMenu/EclipseMenu) for my personal use and because they are to slow to update it for 2.209
+- **[ani-cli-fr](https://github.com/Ulyxx3/ani-cli-fr)**: Fork of [ani-cli](https://github.com/pystardust/ani-cli) for the French-speaking community. [Shell/Python]
+- **[Client](https://github.com/Ulyxx3/Client)**: Fork of [Rhythia/Client](https://github.com/Rhythia/Client) with personal additions. [C#/Godot]
+- **[minehop-fabric-public](https://github.com/Ulyxx3/minehop-fabric-public)**: Fabric mod fork of [Minehop](https://github.com/Plaaasma/minehop-fabric-public) experimenting with bunnyhopping in Minecraft. [Java]
+- **[Eclipse_Ulyx](https://github.com/Ulyxx3/Eclipse_Ulyx)**: Fork of [EclipseMenu](https://git.eclipse.menu/EclipseMenu/EclipseMenu) for my personal use and because they are to slow to update it for 2.209 [C++]
 
 ---
 
