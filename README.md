@@ -97,3 +97,11 @@ A tool suite for streamers to showcase their music in style.
 
 - Ask me about **Rust**, **C++ / C#**, **Minecraft Shaders**, or **OBS tooling**.
 - Portfolio: [ulyxx3.github.io](https://ulyxx3.github.io)
+
+---
+
+### Languages Activity
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Languages Activity" width="100%">
+</div>

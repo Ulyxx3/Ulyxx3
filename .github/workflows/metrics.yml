@@ -1,0 +1,42 @@
+name: GitHub Metrics
+
+on:
+  # Exécution automatique chaque jour à minuit UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Permet de lancer manuellement le workflow depuis l'onglet Actions
+  workflow_dispatch:
+  # Relance la génération lors d'un push sur la branche principale
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Languages Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Personal Access Token (PAT) configuré dans les secrets du repo
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: Ulyxx3
+          template: classic
+          base: "" # Vide pour masquer l'en-tête par défaut et n'afficher que le bloc de langages
+          config_timezone: Europe/Paris
+          filename: github-metrics.svg
+
+          # Inclut vos dépôts personnels + collaborations + organisations (StreamMusicViewer / OSMV)
+          repositories_affiliations: owner, collaborator, organization_member
+
+          # Configuration du plugin "Languages activity" (identique à votre capture)
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, lines, bytes-size
+          plugin_languages_indepth: yes # Clone et analyse les dépôts pour des stats précises par ligne
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+
