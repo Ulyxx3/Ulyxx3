@@ -103,5 +103,5 @@ A tool suite for streamers to showcase their music in style.
 ### Languages Activity
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Languages Activity" width="100%">
+  <img src="github-metrics.svg" alt="Languages Activity" width="450">
 </div>
