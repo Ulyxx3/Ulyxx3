@@ -28,16 +28,22 @@ jobs:
           config_timezone: Europe/Paris
           filename: github-metrics.svg
 
+          # Masque le titre "23 Languages" en bleu
+          extras_css: |
+            h2 {
+              display: none !important;
+            }
+
           # Inclut vos dépôts personnels + collaborations + organisations (StreamMusicViewer / OSMV)
           repositories_affiliations: owner, collaborator, organization_member
 
           # Configuration du plugin "Languages activity"
           plugin_languages: yes
-          plugin_languages_sections: most-used # Uniquement les langages les plus utilisés (pas de recently-used)
-          plugin_languages_details: percentage # Affiche uniquement les pourcentages (pas de lignes de code ni de Mo)
+          plugin_languages_sections: most-used # Uniquement les langages les plus utilisés
+          plugin_languages_details: percentage # Uniquement les pourcentages
           plugin_languages_indepth: yes # Analyse en profondeur pour un calcul précis
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_limit: 8 # Maximum supporté par le template de la carte
-          plugin_languages_other: yes # Regroupe tous les autres langages restants dans une catégorie "Other"
+          plugin_languages_limit: 8 # Maximum supporté par le template SVG (top 8 des langages de programmation)
+          plugin_languages_other: no # Ne crée pas de catégorie "Other" pour afficher tous les vrais langages
           plugin_languages_threshold: 0%
