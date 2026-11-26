@@ -65,6 +65,7 @@ A tool suite for streamers to showcase their music in style.
 - **[silksong-archipelago](https://github.com/Ulyxx3/silksong-archipelago)**: Hollow Knight: Silksong multiworld Archipelago integration. [C#]
 - **[scope-craft](https://github.com/Ulyxx3/scope-craft)**: Minecraft 1.8.9 mod adding dynamic sniper scope zoom when aiming. [Java]
 - **[as2p-debug-mode](https://github.com/Ulyxx3/as2p-debug-mode)**: Debug mode and cheats for *Antivirus Survivors 2003 Professional*. [GDScript]
+- **[deadlock-helper](https://github.com/Ulyxx3/deadlock-helper)**: real-time Porofessor-like for Deadlock. [Python/Typescript] 
 
 #### Tools & Algorithms
 - **[antmap](https://github.com/Ulyxx3/antmap)**: Pathfinding optimization using Ant Colony Optimization. [Rust]
